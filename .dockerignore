@@ -1,0 +1,5 @@
+# Only the exported web build is shipped; run web-test.bat (or a Godot Web export) first.
+*
+!build/web/**
+!Dockerfile
+!nginx.conf
